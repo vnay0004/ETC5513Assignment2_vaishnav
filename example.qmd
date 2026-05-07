@@ -9,10 +9,14 @@ editor: visual
 
 This is a simple Quarto document.
 
-# Assignment 2 
+# Assignment 2
 
 A step by step guide for complete beginners.
 
 ## Tools needed for this activity
 
 RStudio, Command Line Interface, GitHub Account and git installed in your machine. CSV File (from Assignment 1 needed).
+
+## Test branch
+
+This section/part was added on testbranch.
