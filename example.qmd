@@ -17,6 +17,7 @@ A step by step guide for complete beginners.
 
 RStudio, Command Line Interface, GitHub Account and git installed in your machine. CSV File (from Assignment 1 needed).
 
+
 ## Testbranch section
 
 this section was added.
@@ -24,3 +25,8 @@ this section was added.
 ## Main branch section changes
 
 This section was added on main and will conflict with the testbranch.
+
+## Test branch
+
+This section/part was added on testbranch.
+
